@@ -1,5 +1,4 @@
 
-azx-eu-exp-planit-study-v1
 
 
 another file to ignore
